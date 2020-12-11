@@ -13,13 +13,13 @@ Reproduce Hashing Algorithms
 
 * GLOBAL
 
-    ✅   SHA Family : https://www.youtube.com/watch?v=DMtFhACPnTY&list=WL&index=1  
+    ✅ &nbsp; SHA Family : https://www.youtube.com/watch?v=DMtFhACPnTY&list=WL&index=1  
     SHA WIKI   : https://fr.wikipedia.org/wiki/Secure_Hash_Algorithm  
 
     SHA Differences : https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/  
     SHA Differences : https://www.tbs-certificats.com/FAQ/fr/sha256.html  
     SHA Differences : https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/  
-    ✅ - SHA Differences : https://steemit.com/steemit/@ibnu/nice-selection-of-steemit-in-choosing-256-as-hash-algorithm  
+    ✅ &nbsp; SHA Differences : https://steemit.com/steemit/@ibnu/nice-selection-of-steemit-in-choosing-256-as-hash-algorithm  
 
     https://www.tbs-certificats.com/FAQ/fr/sha256.html  
     https://www.rapidsslonline.com/blog/sha1-vs-sha2-vs-sha256-whats-the-difference/  
@@ -31,7 +31,7 @@ Reproduce Hashing Algorithms
 
     INTRO   : https://www.youtube.com/watch?v=33QT7xohUvI  
     WIKI EN : https://en.wikipedia.org/wiki/MD5  
-    ✅ - WIFI FR : https://fr.wikipedia.org/wiki/MD5  
+    ✅ &nbsp; WIFI FR : https://fr.wikipedia.org/wiki/MD5  
 
 * SHA256
 
