@@ -13,7 +13,7 @@ Reproduce Hashing Algorithms
 
 * GLOBAL
 
-    ✅ - SHA Family : https://www.youtube.com/watch?v=DMtFhACPnTY&list=WL&index=1  
+    ✅   SHA Family : https://www.youtube.com/watch?v=DMtFhACPnTY&list=WL&index=1  
     SHA WIKI   : https://fr.wikipedia.org/wiki/Secure_Hash_Algorithm  
 
     SHA Differences : https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/  
