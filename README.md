@@ -1,5 +1,5 @@
 
-## FT_SSL 
+## FT_SSL - 42
 
 Reproduce Hashing Algorithms
 
@@ -7,7 +7,6 @@ Reproduce Hashing Algorithms
 2. SHA256
 3. WHIRPOOL
 
-----------------
 
 ## Documentation
 
@@ -21,7 +20,7 @@ Reproduce Hashing Algorithms
     SHA Differences : https://www.thesslstore.com/blog/difference-sha-1-sha-2-sha-256-hash-algorithms/  
     ✅ &nbsp; SHA Differences : https://steemit.com/steemit/@ibnu/nice-selection-of-steemit-in-choosing-256-as-hash-algorithm  
 
-    https://www.tbs-certificats.com/FAQ/fr/sha256.html  
+https://www.tbs-certificats.com/FAQ/fr/sha256.html  
     https://www.rapidsslonline.com/blog/sha1-vs-sha2-vs-sha256-whats-the-difference/  
     https://www.freecodecamp.org/news/md5-vs-sha-1-vs-sha-2-which-is-the-most-secure-encryption-hash-and-how-to-check-them/  
 
